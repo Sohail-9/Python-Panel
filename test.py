@@ -25,8 +25,8 @@ with st.container():
             """
         )
 
-x = st.text_input("skills you have ?")
-st.write(f"you have unique skills like: {x}")
+x = st.text_input("which movie do u like ?")
+st.write(f"you favourite is : {x}")
 
 
 # st.write("## learning")
